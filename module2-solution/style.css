@@ -1,0 +1,222 @@
+body{
+	  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+@media (min-width: 992px){
+	#f{
+
+	border: 1px solid black;
+	background-color: #FF69B4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#f1{
+
+	border: 1px solid black;
+	background-color: red;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#f2{
+
+	border: 1px solid black;
+	background-color: #FFE4C4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+section{
+	border: 1px solid black;
+	background-color: #6495ED;
+	padding-top: 30px;
+	padding-left: 10px;
+	
+
+}
+h1{
+	text-align: center;
+	margin-top: 2%;
+}
+.first{
+	top: 15%;
+	position: absolute;
+	margin-left: 3%;
+	width: 30%;
+}
+
+.second{
+	top: 15%;
+	position: absolute;
+	margin-left: 35%;
+	width: 30%;
+
+
+}
+.third{
+	top: 15%;
+	position: absolute;
+	margin-left: 68%;
+	width: 30%;
+
+
+}
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+	#f{
+
+	border: 1px solid black;
+	background-color: #FF69B4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#f1{
+
+	border: 1px solid black;
+	background-color: red;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#f2{
+
+	border: 1px solid black;
+	background-color: #FFE4C4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+section{
+	border: 1px solid black;
+	background-color: #6495ED;
+	padding-top: 30px;
+	padding-left: 10px;
+	
+
+}
+h1{
+	text-align: center;
+	margin-top: 2%;
+}
+.first{
+	top: 15%;
+	position: absolute;
+	margin-left: 3%;
+	width: 45%;
+}
+
+.second{
+	top: 15%;
+	position: absolute;
+	margin-left: 50%;
+	width: 45%;
+
+
+}
+.third{
+	top: 55%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 94%;
+
+
+}
+}
+@media (max-width: 767px){
+	#f{
+
+	border: 1px solid black;
+	background-color: #FF69B4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#f1{
+
+	border: 1px solid black;
+	background-color: red;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#f2{
+
+	border: 1px solid black;
+	background-color: #FFE4C4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+section{
+	border: 1px solid black;
+	background-color: #6495ED;
+	padding-top: 30px;
+	padding-left: 10px;
+	
+
+}
+h1{
+	text-align: center;
+	margin-top: 2%;
+}
+.first{
+	top: 15%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 94%;
+}
+
+.second{
+	top: 45%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 94%;
+
+
+}
+.third{
+	top: 75%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+
+	width: 94%;
+
+
+}
+
+}
