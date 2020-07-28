@@ -59,7 +59,7 @@ for (var i = 0; i < names.length; i++) {
   if (firstLetter === 'j') {
    byeSpeaker.speak(names[i]);
   } else {
-   window.helloSpeaker.speak(names[i]);
+   helloSpeaker.speak(names[i]);
   }
 }
 
