@@ -98,7 +98,7 @@ function buildAndShowHomeHTML (categories) {
   // Load home snippet page
   $ajaxUtils.sendGetRequest(
     homeHtmlUrl,
-    function (homeHtmlUrl) {
+    function (homeHtml) {
       var chosenCategoryShortName = chooseRandomCategory(categories).short_name;
       chosenCategoryShortName="'" + chosenCategoryShortName + "'";
 
